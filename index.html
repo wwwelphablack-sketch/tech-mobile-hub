@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Tech Mobile Hub</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+<header class="header">
+
+<div class="logo">
+📱 Tech Mobile Hub
+</div>
+
+
+<nav>
+
+<a href="index.html">Home</a>
+
+<a href="mobiles.html">Mobiles</a>
+
+<a href="compare.html">Compare</a>
+
+<a href="#">Brands</a>
+
+<a href="#">Contact</a>
+
+</nav>
+<button id="theme-btn" onclick="toggleTheme()">
+🌙 Dark Mode
+</button>
+
+</header>
+
+
+
+<section class="hero">
+
+<h1>
+Find Your Next Smartphone
+</h1>
+
+
+<p>
+Latest Mobile Prices, Specifications & Reviews
+</p>
+
+
+<button onclick="window.location.href='mobiles.html'">
+
+Explore Mobiles
+
+</button>
+
+
+</section>
+
+
+
+<section class="search-section">
+
+<h2>
+Search Any Smartphone
+</h2>
+
+
+<input
+id="searchInput"
+type="text"
+placeholder="Search iPhone, Samsung, Vivo..."
+onkeyup="liveSearch()"
+>
+
+<button onclick="searchMobile()">
+Search
+</button>
+
+
+</section>
+
+
+
+<section class="latest">
+
+<h2>
+Latest Mobiles
+</h2>
+
+
+<div class="brand-box">
+
+
+<div>
+
+<h3>
+iPhone 17 Pro Max
+</h3>
+
+<p>
+Rs. 549,999
+</p>
+
+</div>
+
+
+
+<div>
+
+<h3>
+Samsung Galaxy S25 Ultra
+</h3>
+
+<p>
+Rs. 499,999
+</p>
+
+</div>
+
+
+
+<div>
+
+<h3>
+Vivo X200 Pro
+</h3>
+
+<p>
+Rs. 269,999
+</p>
+
+</div>
+
+
+
+<div>
+
+<h3>
+Xiaomi 15 Ultra
+</h3>
+
+<p>
+Rs. 299,999
+</p>
+
+</div>
+
+
+</div>
+
+
+</section>
+
+
+
+<section class="top-brands">
+
+
+<h2>
+Top Smartphone Brands
+</h2>
+
+
+
+<div class="top-brand-grid">
+
+
+<div class="top-brand" onclick="location.href='mobiles.html?brand=Apple'">
+🍎 Apple
+</div>
+
+
+<div class="top-brand" onclick="location.href='mobiles.html?brand=Samsung'">
+📱 Samsung
+</div>
+
+
+<div class="top-brand">
+📳 Vivo
+</div>
+
+
+<div class="top-brand">
+📴 Oppo
+</div>
+
+
+<div class="top-brand">
+📲 Xiaomi
+</div>
+
+
+<div class="top-brand">
+⚡ Realme
+</div>
+
+
+<div class="top-brand">
+🔥 Infinix
+</div>
+
+
+<div class="top-brand">
+💎 Tecno
+</div>
+
+
+</div>
+
+
+</section>
+<section class="brands">
+
+<h2>
+Popular Brands
+</h2>
+
+
+<div class="brand-box">
+
+<div>🍎 Apple</div>
+
+<div>📱 Samsung</div>
+
+<div>📲 Xiaomi</div>
+
+<div>📳 Vivo</div>
+
+<div>📴 Oppo</div>
+
+<div>⚡ Realme</div>
+
+<div>🔥 Infinix</div>
+
+<div>💎 Tecno</div>
+
+
+</div>
+
+</section>
+
+
+
+<section class="features">
+
+
+<h2>
+Why Choose Tech Mobile Hub?
+</h2>
+
+
+<div class="feature-box">
+
+
+
+<div>
+
+<h3>
+📱 5000+ Mobiles
+</h3>
+
+<p>
+Complete specifications and latest prices.
+</p>
+
+</div>
+
+
+
+<div>
+
+<h3>
+⚡ Fast Search
+</h3>
+
+<p>
+Find any smartphone in seconds.
+</p>
+
+</div>
+
+
+
+<div>
+
+<h3>
+📊 Compare Phones
+</h3>
+
+<p>
+Compare mobiles side by side.
+</p>
+
+</div>
+
+
+
+<div>
+
+<h3>
+📰 Latest Updates
+</h3>
+
+<p>
+Latest mobile news and launches.
+</p>
+
+</div>
+
+
+
+</div>
+
+
+</section>
+
+
+
+<footer class="footer">
+
+
+<h2>
+📱 Tech Mobile Hub
+</h2>
+
+
+<p>
+Your Trusted Mobile Specifications & Price Guide
+</p>
+
+
+<p>
+© 2026 Tech Mobile Hub. All Rights Reserved.
+</p>
+
+
+</footer>
+
+
+
+<script src="mobiles.js"></script>
+
+<script src="script.js"></script>
+
+
+</body>
+
+</html>
