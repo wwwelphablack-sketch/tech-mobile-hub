@@ -807,3 +807,22 @@ display:inline-block;
     border-color:#007bff;
     box-shadow:0 0 10px rgba(0,123,255,0.3);
 }
+button{
+    cursor:pointer;
+    transition:0.3s;
+}
+
+.brand-btn{
+    background:#007bff;
+    color:white;
+    border:none;
+    padding:10px 18px;
+    border-radius:25px;
+    margin:5px;
+    font-weight:bold;
+}
+
+.brand-btn:hover{
+    background:#0056b3;
+    transform:translateY(-3px);
+}
