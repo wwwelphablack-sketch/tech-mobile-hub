@@ -792,3 +792,18 @@ display:inline-block;
     }
 
 }
+#searchInput{
+    width:80%;
+    max-width:500px;
+    padding:14px 18px;
+    border-radius:30px;
+    border:2px solid #ddd;
+    font-size:16px;
+    outline:none;
+    transition:0.3s;
+}
+
+#searchInput:focus{
+    border-color:#007bff;
+    box-shadow:0 0 10px rgba(0,123,255,0.3);
+}
