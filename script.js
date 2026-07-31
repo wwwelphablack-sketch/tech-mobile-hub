@@ -14,7 +14,7 @@ function displayMobiles(list) {
 
             <div class="badge">NEW</div>
 
-            <img src="images/${mobile.brand.toLowerCase()}.jpg" class="mobile-img">
+            <img src="${mobile.image}" class="mobile-img">
 
             <h3>
                 ${mobile.model}
