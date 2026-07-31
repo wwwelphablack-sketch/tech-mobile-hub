@@ -736,3 +736,32 @@ display:inline-block;
     }
 
 }
+.mobile-card{
+    background:white;
+    border-radius:15px;
+    padding:20px;
+    box-shadow:0 5px 20px rgba(0,0,0,0.12);
+    transition:0.3s;
+}
+
+.mobile-card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 10px 25px rgba(0,0,0,0.2);
+}
+
+.mobile-img{
+    width:100%;
+    height:250px;
+    object-fit:contain;
+    border-radius:10px;
+}
+
+.badge{
+    display:inline-block;
+    background:#ff4757;
+    color:white;
+    padding:5px 12px;
+    border-radius:20px;
+    font-size:12px;
+    font-weight:bold;
+}
