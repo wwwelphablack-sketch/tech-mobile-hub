@@ -857,3 +857,28 @@ button{
 .card-buttons button:nth-child(3){
     background:#28a745;
 }
+.details-card{
+    background:white;
+    padding:25px;
+    margin:20px;
+    border-radius:20px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.15);
+    animation:fadeUp 0.8s ease;
+}
+
+.details-card img{
+    width:100%;
+    max-height:400px;
+    object-fit:contain;
+    border-radius:15px;
+}
+
+.details-card h1{
+    font-size:30px;
+    color:#007bff;
+}
+
+.details-card p{
+    font-size:17px;
+    line-height:1.7;
+}
