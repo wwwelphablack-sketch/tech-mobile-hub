@@ -718,3 +718,21 @@ display:inline-block;
 .secondary-btn:hover{
     background:#1e7e34;
 }
+.hero-text,
+.hero-buttons{
+    animation: fadeUp 1s ease;
+}
+
+@keyframes fadeUp{
+
+    from{
+        opacity:0;
+        transform:translateY(20px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+
+}
