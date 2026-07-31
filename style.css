@@ -681,3 +681,11 @@ margin-left:8px;
 font-weight:bold;
 display:inline-block;
 }
+.hero-text{
+    text-align:center;
+    font-size:18px;
+    color:#666;
+    margin-top:10px;
+    margin-bottom:20px;
+    line-height:1.6;
+}
