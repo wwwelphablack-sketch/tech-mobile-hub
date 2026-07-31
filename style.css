@@ -765,3 +765,30 @@ display:inline-block;
     font-size:12px;
     font-weight:bold;
 }
+.my-phone{
+    display:inline-block;
+    background:#ff9800;
+    color:white;
+    font-size:13px;
+    padding:5px 10px;
+    border-radius:20px;
+    margin-left:8px;
+    font-weight:bold;
+    animation:pulse 1.5s infinite;
+}
+
+@keyframes pulse{
+
+    0%{
+        transform:scale(1);
+    }
+
+    50%{
+        transform:scale(1.08);
+    }
+
+    100%{
+        transform:scale(1);
+    }
+
+}
