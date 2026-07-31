@@ -11,7 +11,7 @@ ram:"12GB",
 storage:"256GB / 512GB / 1TB",
 battery:"5000mAh",
 camera:"48MP + 48MP + 12MP",
-image:"iphone17promax.jpg"
+image:"iphone17promax.png"
 },
 
 {
