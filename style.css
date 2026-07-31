@@ -689,3 +689,32 @@ display:inline-block;
     margin-bottom:20px;
     line-height:1.6;
 }
+.hero-buttons{
+    display:flex;
+    justify-content:center;
+    gap:15px;
+    flex-wrap:wrap;
+    margin-top:20px;
+}
+
+.hero-btn{
+    text-decoration:none;
+    background:#007bff;
+    color:white;
+    padding:12px 22px;
+    border-radius:8px;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+.hero-btn:hover{
+    background:#0056b3;
+}
+
+.secondary-btn{
+    background:#28a745;
+}
+
+.secondary-btn:hover{
+    background:#1e7e34;
+}
