@@ -11,7 +11,7 @@ ram:"12GB",
 storage:"256GB / 512GB / 1TB",
 battery:"5000mAh",
 camera:"48MP + 48MP + 12MP",
-image:"images/iphone17promax.jpg"
+image:"iphone17promax.jpg"
 },
 
 {
@@ -25,7 +25,7 @@ ram:"12GB",
 storage:"256GB / 512GB / 1TB",
 battery:"4300mAh",
 camera:"48MP + 48MP + 12MP",
-image:"images/iphone17pro.jpg"
+image:"iphone17pro.jpg"
 },
 
 {
@@ -39,7 +39,7 @@ ram:"8GB",
 storage:"128GB / 256GB / 512GB",
 battery:"4700mAh",
 camera:"48MP + 12MP",
-image:"images/iphone17plus.jpg"
+image:"iphone17plus.jpg"
 },
 
 {
@@ -53,7 +53,7 @@ ram:"8GB",
 storage:"128GB / 256GB / 512GB",
 battery:"3900mAh",
 camera:"48MP + 12MP",
-image:"images/iphone17.jpg"
+image:"iphone17.jpg"
 },
 
 {
@@ -67,7 +67,7 @@ ram:"8GB",
 storage:"256GB / 512GB / 1TB",
 battery:"4685mAh",
 camera:"48MP + 48MP + 12MP",
-image:"images/iphone16promax.jpg"
+image:"iphone16promax.jpg"
 },
 
 {
@@ -81,7 +81,7 @@ ram:"8GB",
 storage:"128GB / 256GB / 512GB / 1TB",
 battery:"3582mAh",
 camera:"48MP + 48MP + 12MP",
-image:"images/iphone16pro.jpg"
+image:"iphone16pro.jpg"
 },
 
 {
@@ -95,7 +95,7 @@ ram:"8GB",
 storage:"128GB / 256GB / 512GB",
 battery:"4674mAh",
 camera:"48MP + 12MP",
-image:"images/iphone16plus.jpg"
+image:"iphone16plus.jpg"
 },
 
 {
@@ -109,7 +109,7 @@ ram:"8GB",
 storage:"128GB / 256GB / 512GB",
 battery:"3561mAh",
 camera:"48MP + 12MP",
-image:"images/iphone16.jpg"
+image:"iphone16.jpg"
 },
 
 {
@@ -123,7 +123,7 @@ ram:"8GB",
 storage:"256GB / 512GB / 1TB",
 battery:"4441mAh",
 camera:"48MP + 12MP + 12MP",
-image:"images/iphone15promax.jpg"
+image:"iphone15promax.jpg"
 },
 
 {
@@ -137,7 +137,7 @@ ram:"8GB",
 storage:"128GB / 256GB / 512GB",
 battery:"3274mAh",
 camera:"48MP + 12MP + 12MP",
-image:"images/iphone15pro.jpg"
+image:"iphone15pro.jpg"
 },
 
 {
@@ -151,7 +151,7 @@ ram:"6GB",
 storage:"128GB / 256GB / 512GB",
 battery:"4383mAh",
 camera:"48MP + 12MP",
-image:"images/iphone15plus.jpg"
+image:"iphone15plus.jpg"
 },
 
 {
@@ -165,7 +165,7 @@ ram:"6GB",
 storage:"128GB / 256GB / 512GB",
 battery:"3349mAh",
 camera:"48MP + 12MP",
-image:"images/iphone15.jpg"
+image:"iphone15.jpg"
 },
 
 {
@@ -179,7 +179,7 @@ ram:"6GB",
 storage:"128GB / 256GB / 512GB / 1TB",
 battery:"4323mAh",
 camera:"48MP + 12MP + 12MP",
-image:"images/iphone14promax.jpg"
+image:"iphone14promax.jpg"
 },
 
 {
@@ -193,7 +193,7 @@ ram:"6GB",
 storage:"128GB / 256GB / 512GB / 1TB",
 battery:"3200mAh",
 camera:"48MP + 12MP + 12MP",
-image:"images/iphone14pro.jpg"
+image:"iphone14pro.jpg"
 },
 
 
@@ -208,7 +208,7 @@ ram:"6GB",
 storage:"128GB / 256GB / 512GB",
 battery:"4325mAh",
 camera:"12MP + 12MP",
-image:"images/iphone14plus.jpg"
+image:"iphone14plus.jpg"
 },
 
 {
@@ -222,7 +222,7 @@ ram:"6GB",
 storage:"128GB / 256GB / 512GB",
 battery:"3279mAh",
 camera:"12MP + 12MP",
-image:"images/iphone14.jpg"
+image:"iphone14.jpg"
 },
 
 {
@@ -236,7 +236,7 @@ ram:"6GB",
 storage:"128GB / 256GB / 512GB / 1TB",
 battery:"4352mAh",
 camera:"12MP + 12MP + 12MP",
-image:"images/iphone13promax.jpg"
+image:"iphone13promax.jpg"
 },
 
 {
@@ -250,7 +250,7 @@ ram:"6GB",
 storage:"128GB / 256GB / 512GB / 1TB",
 battery:"3095mAh",
 camera:"12MP + 12MP + 12MP",
-image:"images/iphone13pro.jpg"
+image:"iphone13pro.jpg"
 },
 
 {
@@ -264,7 +264,7 @@ ram:"4GB",
 storage:"128GB / 256GB / 512GB",
 battery:"3240mAh",
 camera:"12MP + 12MP",
-image:"images/iphone13.jpg"
+image:"iphone13.jpg"
 },
 
 {
@@ -278,7 +278,7 @@ ram:"4GB",
 storage:"128GB / 256GB / 512GB",
 battery:"2438mAh",
 camera:"12MP + 12MP",
-image:"images/iphone13mini.jpg"
+image:"iphone13mini.jpg"
 },
 
 {
@@ -292,7 +292,7 @@ ram:"6GB",
 storage:"128GB / 256GB / 512GB",
 battery:"3687mAh",
 camera:"12MP + 12MP + 12MP",
-image:"images/iphone12promax.jpg"
+image:"iphone12promax.jpg"
 },
 
 {
@@ -306,7 +306,7 @@ ram:"6GB",
 storage:"128GB / 256GB / 512GB",
 battery:"2815mAh",
 camera:"12MP + 12MP + 12MP",
-image:"images/iphone12pro.jpg"
+image:"iphone12pro.jpg"
 },
 
 {
@@ -320,7 +320,7 @@ ram:"4GB",
 storage:"64GB / 128GB / 256GB",
 battery:"2815mAh",
 camera:"12MP + 12MP",
-image:"images/iphone12.jpg"
+image:"iphone12.jpg"
 },
 
 {
@@ -334,7 +334,7 @@ ram:"4GB",
 storage:"64GB / 128GB / 256GB",
 battery:"2227mAh",
 camera:"12MP + 12MP",
-image:"images/iphone12mini.jpg"
+image:"iphone12mini.jpg"
 },
 
 {
@@ -348,7 +348,7 @@ ram:"4GB",
 storage:"64GB / 256GB / 512GB",
 battery:"3969mAh",
 camera:"12MP + 12MP + 12MP",
-image:"images/iphone11promax.jpg"
+image:"iphone11promax.jpg"
 },
 
 {
@@ -362,7 +362,7 @@ ram:"4GB",
 storage:"64GB / 256GB / 512GB",
 battery:"3046mAh",
 camera:"12MP + 12MP + 12MP",
-image:"images/iphone11pro.jpg"
+image:"iphone11pro.jpg"
 },
 
 {
@@ -376,7 +376,7 @@ ram:"4GB",
 storage:"64GB / 128GB / 256GB",
 battery:"3110mAh",
 camera:"12MP + 12MP",
-image:"images/iphone11.jpg"
+image:"iphone11.jpg"
 }
 ,
 
@@ -391,7 +391,7 @@ ram:"12GB",
 storage:"256GB / 512GB / 1TB",
 battery:"5000mAh",
 camera:"200MP + 50MP + 50MP + 10MP",
-image:"images/s25ultra.jpg"
+image:"s25ultra.jpg"
 },
 
 {
@@ -405,7 +405,7 @@ ram:"12GB",
 storage:"256GB / 512GB",
 battery:"4900mAh",
 camera:"50MP + 12MP + 10MP",
-image:"images/s25plus.jpg"
+image:"s25plus.jpg"
 },
 
 {
@@ -419,7 +419,7 @@ ram:"12GB",
 storage:"128GB / 256GB",
 battery:"4000mAh",
 camera:"50MP + 12MP + 10MP",
-image:"images/s25.jpg"
+image:"s25.jpg"
 }
 ,
 
@@ -434,7 +434,7 @@ ram:"12GB",
 storage:"256GB / 512GB / 1TB",
 battery:"5000mAh",
 camera:"200MP + 50MP + 10MP + 12MP",
-image:"images/s24ultra.jpg"
+image:"s24ultra.jpg"
 },
 
 {
@@ -448,7 +448,7 @@ ram:"12GB",
 storage:"256GB / 512GB",
 battery:"4900mAh",
 camera:"50MP + 10MP + 12MP",
-image:"images/s24plus.jpg"
+image:"s24plus.jpg"
 },
 
 {
@@ -462,7 +462,7 @@ ram:"8GB",
 storage:"128GB / 256GB",
 battery:"4000mAh",
 camera:"50MP + 10MP + 12MP",
-image:"images/s24.jpg"
+image:"s24.jpg"
 },
 
 {
@@ -476,7 +476,7 @@ ram:"8GB",
 storage:"128GB / 256GB",
 battery:"4700mAh",
 camera:"50MP + 12MP + 8MP",
-image:"images/s24fe.jpg"
+image:"s24fe.jpg"
 }
 ,
 
@@ -491,7 +491,7 @@ ram:"8GB",
 storage:"128GB / 256GB",
 battery:"5000mAh",
 camera:"50MP + 12MP + 5MP",
-image:"images/a56.jpg"
+image:"a56.jpg"
 },
 
 {
@@ -505,7 +505,7 @@ ram:"8GB",
 storage:"128GB / 256GB",
 battery:"5000mAh",
 camera:"50MP + 8MP + 5MP",
-image:"images/a36.jpg"
+image:"a36.jpg"
 },
 
 {
@@ -519,7 +519,7 @@ ram:"6GB / 8GB",
 storage:"128GB / 256GB",
 battery:"5000mAh",
 camera:"50MP + 8MP + 2MP",
-image:"images/a26.jpg"
+image:"a26.jpg"
 },
 
 {
@@ -533,7 +533,7 @@ ram:"6GB",
 storage:"128GB",
 battery:"5000mAh",
 camera:"50MP + 5MP + 2MP",
-image:"images/a16.jpg"
+image:"a16.jpg"
 }
 ,
 
@@ -548,7 +548,7 @@ ram:"4GB / 6GB",
 storage:"64GB / 128GB",
 battery:"5000mAh",
 camera:"50MP + 2MP",
-image:"images/a06.jpg"
+image:"a06.jpg"
 },
 
 {
@@ -562,7 +562,7 @@ ram:"6GB / 8GB",
 storage:"128GB / 256GB",
 battery:"5000mAh",
 camera:"50MP + 5MP + 2MP",
-image:"images/a15.jpg"
+image:"a15.jpg"
 },
 
 {
@@ -576,7 +576,7 @@ ram:"8GB / 12GB",
 storage:"128GB / 256GB",
 battery:"5000mAh",
 camera:"50MP + 12MP + 5MP",
-image:"images/a55.jpg"
+image:"a55.jpg"
 },
 
 {
@@ -590,7 +590,7 @@ ram:"8GB",
 storage:"128GB / 256GB",
 battery:"5000mAh",
 camera:"50MP + 8MP + 5MP",
-image:"images/a35.jpg"
+image:"a35.jpg"
 }
 ,
 
@@ -605,7 +605,7 @@ ram:"16GB",
 storage:"512GB / 1TB",
 battery:"6000mAh",
 camera:"50MP + 200MP + 50MP",
-image:"images/x200ultra.jpg"
+image:"x200ultra.jpg"
 },
 
 {
@@ -619,7 +619,7 @@ ram:"16GB",
 storage:"512GB",
 battery:"6000mAh",
 camera:"50MP + 200MP + 50MP",
-image:"images/x200pro.jpg"
+image:"x200pro.jpg"
 },
 
 {
@@ -633,7 +633,7 @@ ram:"12GB",
 storage:"256GB / 512GB",
 battery:"5800mAh",
 camera:"50MP + 50MP + 50MP",
-image:"images/x200.jpg"
+image:"x200.jpg"
 }
 ,
 
@@ -648,7 +648,7 @@ ram:"12GB",
 storage:"256GB",
 battery:"6000mAh",
 camera:"50MP + 50MP + 50MP",
-image:"images/v50pro.jpg"
+image:"v50pro.jpg"
 },
 
 {
@@ -662,7 +662,7 @@ ram:"12GB",
 storage:"256GB",
 battery:"6000mAh",
 camera:"50MP + 50MP",
-image:"images/v50.jpg"
+image:"v50.jpg"
 },
 
 {
@@ -676,7 +676,7 @@ ram:"12GB",
 storage:"256GB",
 battery:"5500mAh",
 camera:"50MP + 50MP",
-image:"images/v40.jpg"
+image:"v40.jpg"
 }
 ,
 
@@ -691,7 +691,7 @@ ram:"8GB",
 storage:"128GB / 256GB",
 battery:"5000mAh",
 camera:"50MP + 2MP",
-image:"images/y300.jpg"
+image:"y300.jpg"
 },
 
 {
@@ -705,7 +705,7 @@ ram:"8GB",
 storage:"128GB",
 battery:"5500mAh",
 camera:"50MP + 2MP",
-image:"images/y29.jpg"
+image:"y29.jpg"
 },
 
 {
@@ -719,7 +719,7 @@ ram:"8GB",
 storage:"128GB",
 battery:"6000mAh",
 camera:"50MP + 2MP",
-image:"images/y28.jpg"
+image:"y28.jpg"
 },
 
 {
@@ -733,7 +733,7 @@ ram:"6GB",
 storage:"128GB",
 battery:"5000mAh",
 camera:"50MP + 0.08MP",
-image:"images/y18.jpg"
+image:"y18.jpg"
 }
 ,
 
@@ -748,7 +748,7 @@ ram:"16GB",
 storage:"512GB",
 battery:"6000mAh",
 camera:"50MP + 50MP + 50MP + 50MP",
-image:"images/findx8ultra.jpg"
+image:"findx8ultra.jpg"
 },
 
 {
@@ -762,7 +762,7 @@ ram:"16GB",
 storage:"512GB",
 battery:"5910mAh",
 camera:"50MP + 50MP + 50MP + 50MP",
-image:"images/findx8pro.jpg"
+image:"findx8pro.jpg"
 },
 
 {
@@ -776,7 +776,7 @@ ram:"12GB",
 storage:"256GB",
 battery:"5800mAh",
 camera:"50MP + 50MP + 8MP",
-image:"images/reno13pro.jpg"
+image:"reno13pro.jpg"
 },
 
 {
@@ -790,7 +790,7 @@ ram:"12GB",
 storage:"256GB",
 battery:"5600mAh",
 camera:"50MP + 8MP",
-image:"images/reno13.jpg"
+image:"reno13.jpg"
 }
 ,
 
@@ -805,7 +805,7 @@ ram:"8GB",
 storage:"256GB",
 battery:"5800mAh",
 camera:"50MP + 2MP",
-image:"images/a5pro.jpg"
+image:"a5pro.jpg"
 },
 
 {
@@ -819,7 +819,7 @@ ram:"8GB",
 storage:"256GB",
 battery:"5100mAh",
 camera:"50MP + 2MP",
-image:"images/a3pro.jpg"
+image:"a3pro.jpg"
 },
 
 {
@@ -833,7 +833,7 @@ ram:"8GB",
 storage:"128GB",
 battery:"5000mAh",
 camera:"50MP + 2MP",
-image:"images/a60.jpg"
+image:"a60.jpg"
 },
 
 {
@@ -847,7 +847,7 @@ ram:"6GB",
 storage:"128GB",
 battery:"5000mAh",
 camera:"50MP + 2MP",
-image:"images/a38.jpg"
+image:"a38.jpg"
 }
 ,
 
@@ -862,7 +862,7 @@ ram:"16GB",
 storage:"512GB",
 battery:"5410mAh",
 camera:"50MP + 50MP + 200MP + 50MP",
-image:"images/xiaomi15ultra.jpg"
+image:"xiaomi15ultra.jpg"
 },
 
 {
@@ -876,7 +876,7 @@ ram:"16GB",
 storage:"512GB",
 battery:"6100mAh",
 camera:"50MP + 50MP + 50MP",
-image:"images/xiaomi15pro.jpg"
+image:"xiaomi15pro.jpg"
 },
 
 {
@@ -890,7 +890,7 @@ ram:"12GB",
 storage:"256GB",
 battery:"5400mAh",
 camera:"50MP + 50MP + 50MP",
-image:"images/xiaomi15.jpg"
+image:"xiaomi15.jpg"
 },
 
 {
@@ -904,7 +904,7 @@ ram:"12GB",
 storage:"256GB",
 battery:"6200mAh",
 camera:"200MP + 8MP + 2MP",
-image:"images/redminote14proplus.jpg"
+image:"redminote14proplus.jpg"
 }
 ,
 {
@@ -918,7 +918,7 @@ ram:"8GB / 12GB",
 storage:"128GB / 256GB / 512GB",
 battery:"4600mAh",
 camera:"50MP + 50MP + 50MP",
-image:"images/xiaomi12spro.jpg"
+image:"xiaomi12spro.jpg"
 }
 ,
 
@@ -933,7 +933,7 @@ ram:"16GB",
 storage:"512GB",
 battery:"6500mAh",
 camera:"50MP + 50MP + 8MP",
-image:"images/gt7pro.jpg"
+image:"gt7pro.jpg"
 },
 
 {
@@ -947,7 +947,7 @@ ram:"12GB",
 storage:"256GB",
 battery:"5500mAh",
 camera:"50MP + 8MP + 50MP",
-image:"images/gt6.jpg"
+image:"gt6.jpg"
 },
 
 {
@@ -961,7 +961,7 @@ ram:"12GB",
 storage:"256GB",
 battery:"5200mAh",
 camera:"50MP + 50MP + 8MP",
-image:"images/realme13proplus.jpg"
+image:"realme13proplus.jpg"
 },
 
 {
@@ -975,7 +975,7 @@ ram:"8GB",
 storage:"256GB",
 battery:"5200mAh",
 camera:"50MP + 8MP",
-image:"images/realme13pro.jpg"
+image:"realme13pro.jpg"
 }
 ,
 
@@ -990,7 +990,7 @@ ram:"8GB",
 storage:"256GB",
 battery:"5000mAh",
 camera:"50MP + 8MP + 2MP",
-image:"images/narzo70pro.jpg"
+image:"narzo70pro.jpg"
 },
 
 {
@@ -1004,7 +1004,7 @@ ram:"8GB",
 storage:"128GB",
 battery:"5000mAh",
 camera:"50MP + 2MP",
-image:"images/narzo70.jpg"
+image:"narzo70.jpg"
 },
 
 {
@@ -1018,7 +1018,7 @@ ram:"8GB",
 storage:"128GB",
 battery:"5000mAh",
 camera:"108MP + 2MP",
-image:"images/c67.jpg"
+image:"c67.jpg"
 },
 
 {
@@ -1032,7 +1032,7 @@ ram:"6GB",
 storage:"128GB",
 battery:"5000mAh",
 camera:"50MP + 2MP",
-image:"images/c65.jpg"
+image:"c65.jpg"
 }
 ,
 
@@ -1047,7 +1047,7 @@ ram:"12GB",
 storage:"256GB",
 battery:"5000mAh",
 camera:"108MP + 50MP + 2MP",
-image:"images/zero40.jpg"
+image:"zero40.jpg"
 },
 
 {
@@ -1061,7 +1061,7 @@ ram:"12GB",
 storage:"256GB",
 battery:"5000mAh",
 camera:"108MP + 2MP + 2MP",
-image:"images/gt20pro.jpg"
+image:"gt20pro.jpg"
 },
 
 {
@@ -1075,7 +1075,7 @@ ram:"12GB",
 storage:"256GB",
 battery:"5000mAh",
 camera:"108MP + 2MP + 2MP",
-image:"images/note40pro.jpg"
+image:"note40pro.jpg"
 },
 
 {
@@ -1089,7 +1089,7 @@ ram:"8GB",
 storage:"256GB",
 battery:"5000mAh",
 camera:"108MP + 2MP + 2MP",
-image:"images/note40.jpg"
+image:"note40.jpg"
 }
 ,
 
@@ -1104,7 +1104,7 @@ ram:"8GB",
 storage:"256GB",
 battery:"5000mAh",
 camera:"50MP + 2MP",
-image:"images/hot50proplus.jpg"
+image:"hot50proplus.jpg"
 },
 
 {
@@ -1118,7 +1118,7 @@ ram:"8GB",
 storage:"256GB",
 battery:"5000mAh",
 camera:"50MP + 2MP",
-image:"images/hot50pro.jpg"
+image:"hot50pro.jpg"
 },
 
 {
@@ -1132,7 +1132,7 @@ ram:"4GB",
 storage:"128GB",
 battery:"5000mAh",
 camera:"13MP",
-image:"images/smart9.jpg"
+image:"smart9.jpg"
 },
 
 {
@@ -1146,7 +1146,7 @@ ram:"4GB",
 storage:"64GB / 128GB",
 battery:"5000mAh",
 camera:"50MP",
-image:"images/smart8.jpg"
+image:"smart8.jpg"
 }
 ,
 
@@ -1161,7 +1161,7 @@ ram:"12GB",
 storage:"512GB",
 battery:"5750mAh",
 camera:"50MP + 50MP + 50MP",
-image:"images/phantomvfold2.jpg"
+image:"phantomvfold2.jpg"
 },
 
 {
@@ -1175,7 +1175,7 @@ ram:"8GB",
 storage:"256GB",
 battery:"4720mAh",
 camera:"50MP + 50MP",
-image:"images/phantomvflip2.jpg"
+image:"phantomvflip2.jpg"
 },
 
 {
@@ -1189,7 +1189,7 @@ ram:"12GB",
 storage:"512GB",
 battery:"5100mAh",
 camera:"50MP + 50MP + 50MP",
-image:"images/camon40premier.jpg"
+image:"camon40premier.jpg"
 },
 
 {
@@ -1203,7 +1203,7 @@ ram:"12GB",
 storage:"256GB",
 battery:"5200mAh",
 camera:"50MP + 8MP",
-image:"images/camon40pro.jpg"
+image:"camon40pro.jpg"
 }
 ,
 
@@ -1218,7 +1218,7 @@ ram:"8GB",
 storage:"256GB",
 battery:"5000mAh",
 camera:"50MP + 2MP",
-image:"images/camon30.jpg"
+image:"camon30.jpg"
 },
 
 {
@@ -1232,7 +1232,7 @@ ram:"8GB",
 storage:"256GB",
 battery:"5000mAh",
 camera:"108MP",
-image:"images/spark30pro.jpg"
+image:"spark30pro.jpg"
 },
 
 {
@@ -1246,7 +1246,7 @@ ram:"4GB",
 storage:"128GB",
 battery:"5000mAh",
 camera:"13MP",
-image:"images/sparkgo2025.jpg"
+image:"sparkgo2025.jpg"
 },
 
 {
@@ -1260,6 +1260,6 @@ ram:"4GB",
 storage:"64GB",
 battery:"5000mAh",
 camera:"13MP",
-image:"images/pop9.jpg"
+image:"pop9.jpg"
 }
 ];
